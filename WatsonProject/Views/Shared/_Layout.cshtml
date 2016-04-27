@@ -12,17 +12,15 @@
     <link rel="stylesheet" href="~/Content/reset.css"> <!-- CSS reset -->
     <link rel="stylesheet" href="~/Content/style.css"> <!-- Resource style -->
     <script src="js/modernizr.js"></script> <!-- Modernizr -->
-   
-
 </head>
     <body>
-
-        <div class="projects-container">
+        @*<div class="projects-container">
             <ul>
                 <li class="cd-single-project">
                     <div class="cd-title">
-                     <h2>Real Time Translator</h2>
+                     <h2>@Html.ActionLink("Real Time Translator", "Index", "RealTime")</h2>
                         <p>comunicate with anyone in any language</p>
+
                     </div> <!-- .cd-title -->
 
                 <div class="cd-project-info">
@@ -37,7 +35,7 @@
 
             <li class="cd-single-project">
                 <div class="cd-title">
-                    <h2>Resume Analizer</h2>
+                    <h2>@Html.ActionLink("Resume Analizer", "Index", "Home")</h2>
                     <p>Get a deeper understanding of people's personality </p>
                 </div> <!-- .cd-title -->
 
@@ -53,7 +51,7 @@
 
             <li class="cd-single-project">
                 <div class="cd-title">
-                    <h2>Costumer Tone Analizer</h2>
+                    <h2>@Html.ActionLink("Costumer Tone Analizer", "Index", "Home")</h2>
                     <p>Wonder how your message might be perceived by the end user?</p>
                 </div> <!-- .cd-title -->
 
@@ -69,7 +67,7 @@
 
             <li class="cd-single-project">
                 <div class="cd-title">
-                    <h2>About Juanito</h2>
+                    <h2>@Html.ActionLink("About Juanito", "Index", "Home")</h2>
                     <p>Brief description of the project here</p>
                 </div> <!-- .cd-title -->
 
@@ -85,9 +83,8 @@
         </ul>
         <a href="#0" class="cd-close">Close</a>
         <a href="#0" class="cd-scroll">Scroll</a>
-    </div> <!-- .project-container -->
-    <script src="js/jquery-2.1.1.js"></script>
-    <script src="js/main.js"></script> <!-- Resource jQuery -->
+    </div> <!-- .project-container -->*@
+   
         @RenderBody()
         <footer>
             <div class="container">

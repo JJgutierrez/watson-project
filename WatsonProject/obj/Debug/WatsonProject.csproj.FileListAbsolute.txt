@@ -79,4 +79,3 @@ C:\Users\Juan\Documents\class\OxigenClass\WatsonProject\WatsonProject\bin\Micros
 C:\Users\Juan\Documents\class\OxigenClass\WatsonProject\WatsonProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Juan\Documents\class\OxigenClass\WatsonProject\WatsonProject\obj\Debug\WatsonProject.dll
 C:\Users\Juan\Documents\class\OxigenClass\WatsonProject\WatsonProject\obj\Debug\WatsonProject.pdb
-C:\Users\Juan\Documents\class\OxigenClass\WatsonProject\WatsonProject\obj\Debug\WatsonProject.csprojResolveAssemblyReference.cache
