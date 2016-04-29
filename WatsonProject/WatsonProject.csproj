@@ -232,6 +232,7 @@
     <Content Include="img\img-3-small.jpg" />
     <Content Include="img\img-4-large.jpg" />
     <Content Include="img\img-4-small.jpg" />
+    <Content Include="img\watson.gif" />
     <Content Include="Scripts\ai.0.15.0-build58334.js" />
     <Content Include="Scripts\ai.0.15.0-build58334.min.js" />
     <Content Include="Scripts\bootstrap.js" />
